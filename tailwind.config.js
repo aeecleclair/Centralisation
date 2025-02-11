@@ -12,7 +12,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'eclair': '#ff7d03',
+        'eclair': '#db6b02',
       },
     },
   },
