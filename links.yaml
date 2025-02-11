@@ -20,7 +20,7 @@
     invert-on-dark: true
     url: https://scol.ec-lyon.fr
 
-  - name: Campu
+  - name: Campus
     description: Campus est l'intranet de l'école. On y trouve toutes les réponses concernant le parcours à Centrale Lyon, les démarches administratives pour les stages et les départs à l'étranger et bien plus encore.
     icon: centrale.webp
     url: https://campus.ec-lyon.fr
