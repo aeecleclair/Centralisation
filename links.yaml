@@ -31,13 +31,19 @@
       le G8.
     icon: map.svg
     invert-on-dark: true
-    url: https://www.ec-lyon.fr/sites/default/files/plan_campus_centrale_lyon_2023_web_0.pdf
+    url: https://www.ec-lyon.fr/sites/default/files/content/pages/documents/plan-campus-centrale-lyon-2024--web-_compressed.pdf
 
   - name: Plan interactif
     description: Le plan du campus si vous cherchez un service de l'école.
     icon: interactif.png
     invert-on-dark: true
     url: https://umap.openstreetmap.fr/fr/map/services-du-campus-de-lecole-centrale-de-lyon_499828
+
+  - name: Compétences
+    description: Le site des compétences, recense les évaluations des professeurs et donne accès à un récapitulatif. L'accès nécessite d'être connecté au réseau interne de l'école ou au VPN.
+    icon: competence.png
+    invert-on-dark: true
+    url: https://competences.ec-lyon.fr/
 
 Services d'ÉCLAIR:
   - name: MyECL
@@ -79,104 +85,22 @@ Services d'ÉCLAIR:
     icon: hedgedoc.webp
     url: https://hedgedoc.eclair.ec-lyon.fr
 
-Sites associatifs:
+  - name: Overleaf
+    description: Editeur collaboratif en ligne de rapports LaTeX
+    icon: overleaf.svg
+    url: https://overleaf.myecl.fr
 
-  - name: Prétendances
-    description : Postulez pour vos assos préférées!
-    icon: pretendances.png
-    url: https://docs.google.com/forms/d/14X-rOeMtSJo0h4pOLJXdORORyvXo07yWbDyrX9fWi-4/edit
   - name: Piwigo
     description: Toutes les photos et vidéos des évènements sont ici !
     icon: pixels.svg
     url: https://piwigo.myecl.fr
 
-  - name: Commuz'
-    description:
-      La Commuz' est une comédie musicale organisée chaque année par une équipe de 80 étudiants
-      de l'École Centrale de Lyon et de l'emlyon business school.
-    icon: commuz.svg
-    url: https://commuz.fr/
-
-  - name: RAID
-    description:
-      Le Raid Centrale Lyon est un événement organisé chaque année sur un weekend d’octobre
-      qui regroupe plus de 300 participants et bénévoles issus d’écoles d’ingénieurs et de commerce françaises.
-    icon: raid.webp
-    url: https://raid.myecl.fr/
-
-  - name: Bazar
-    description:
-      Le Bazar est le club de jeux de société et de jeux vidéo, il organise un Souk tous les vendredis soir où chacun
-      se retrouve pour jouer à des jeux entre amis.
-    icon: bazar.png
-    url: https://bazarization.eclair.ec-lyon.fr/
-
-  - name: Forum Perspectives
-    description:
-      Le Forum Perspectives est le forum de recrutement organisé par l’école Centrale de Lyon
-      et l’école des Mines de Saint-Étienne
-    icon: forum perspectives.png
-    invert-on-dark: true
-    url: https://forum-perspectives.fr/
-
-Réseaux sociaux:
-  - name: FB - BDL
-    description:
-      À la recherche de ta izly, ta chaussure gauche ou encore tes souvenirs
-      ? BDL permet la communication entre les élèves sur tous les sujets du quotidien
-    icon: "facebook.svg"
-    invert-on-dark: true
-    url: https://www.facebook.com/groups/1524567274449574
-
-  - name: FB - AQH
-    description:
-      AQH ?! est le groupe Facebook réservé à la promotion des évènements
-      associatifs à l'école.  On y trouve par exemple des annonces pendant les campagnes,
-      des organisations de petit-dej, des week-ends BDS, des semaines 1A etc.
-    icon: facebook.svg
-    invert-on-dark: true
-    url: https://www.facebook.com/groups/AQHAQHAQH
-
-  - name: FB - MBP !
-    description: Mamie Bons Plans ! est réservé à la promotion des partenariats centraliens.
-    icon: facebook.svg
-    invert-on-dark: true
-    url: https://www.facebook.com/groups/mamiebonsplans
-
-  - name: Instagram BDE
-    description: Suis l'actualité associative de l'école sur le compte Instagram du BDE !
-    icon: bde.webp
-    url: https://www.instagram.com/bdecentralelyon/
-
-  - name: Instagram BDS
-    description: Suis l'actualité sportive de l'école sur le compte Instagram du BDS !
-    icon: bds.webp
-    url: https://www.instagram.com/bds_ecl/
-
-  - name: Insta Planet&Co
-    description: Suis l'actualité de l'association Planet&Co sur son compte Instagram !
-    icon: planet.png
-    url: https://www.instagram.com/planetandcoecl/
-
-  - name: Insta Fouquette
-    description: Suis l'actualité de la Fouquette sur son compte Instagram !
-    icon: fouquette.png
-    url: https://www.instagram.com/lafouquette_ecl/
-
-  - name: Insta Ciné
-    description: Suis l'actualité du Club Ciné sur son compte Instagram !
-    icon: club_cine.png
-    url: https://www.instagram.com/cine_club_ecl
+  - name: Centralassociation
+    description: Agrégateur de lien associatif d'ÉCLAIR
+    icon: centralassociation.svg
+    url: https://assos.myecl.fr
 
 Autres:
-  - name: Scolarité
-    description:
-      Les bulletins de notes de chaque semestre et le certificat de scolarité figurent sur Scolarité. Attention,
-      le VPN de l'école est nécessaire pour y accéder.
-    icon: student.svg
-    invert-on-dark: true
-    url: https://scolarite.ec-lyon.fr
-
   - name: Bibliothèque
     description:
       Le site de la Bibliothèque Universitaire permet de réserver un livre, vérifier
@@ -195,18 +119,6 @@ Autres:
     description: L'instance Gitlab de l'école est un serveur de dépôt de code et de collaboration interne à Centrale Lyon. Elle permet d'héberger des projets d'enseignement ou de recherche.
     icon: gitlab.svg
     url: https://gitlab.ec-lyon.fr
-
-  - name: Compétences
-    description: Le site des compétences, recense les évaluations des professeurs et donne accès à un récapitulatif. L'accès nécessite d'être connecté au réseau interne de l'école ou au VPN.
-    icon: competence.png
-    invert-on-dark: true
-    url: https://competences.ec-lyon.fr/
-
-  - name: Conférences
-    description: Le site des conférences permet de retrouver le planning des conférences à venir à l'école, utile pour valider l'UE PRO. L'accès nécessite d'être connecté au réseau interne de l'école ou au VPN.
-    icon: person-chalkboard-solid.svg
-    invert-on-dark: true
-    url: https://conf.ec-lyon.fr
 
   - name: DSI
     description:
