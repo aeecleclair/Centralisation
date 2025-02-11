@@ -39,6 +39,12 @@
     invert-on-dark: true
     url: https://umap.openstreetmap.fr/fr/map/services-du-campus-de-lecole-centrale-de-lyon_499828
 
+  - name: Compétences
+    description: Le site des compétences, recense les évaluations des professeurs et donne accès à un récapitulatif. L'accès nécessite d'être connecté au réseau interne de l'école ou au VPN.
+    icon: competence.png
+    invert-on-dark: true
+    url: https://competences.ec-lyon.fr/
+
 Services d'ÉCLAIR:
   - name: MyECL
     description:
@@ -89,56 +95,12 @@ Services d'ÉCLAIR:
     icon: pixels.svg
     url: https://piwigo.myecl.fr
 
-  - name: Bazar
-    description:
-      Le Bazar est le club de jeux de société et de jeux vidéo, il organise un Souk tous les vendredis soir où chacun
-      se retrouve pour jouer à des jeux entre amis.
-    icon: bazar.png
-    url: https://bazarization.eclair.ec-lyon.fr/
-
-Réseaux sociaux:
-  - name: FB - BDL
-    description:
-      À la recherche de ta izly, ta chaussure gauche ou encore tes souvenirs
-      ? BDL permet la communication entre les élèves sur tous les sujets du quotidien
-    icon: "facebook.svg"
-    invert-on-dark: true
-    url: https://www.facebook.com/groups/1524567274449574
-
-  - name: FB - AQH
-    description:
-      AQH ?! est le groupe Facebook réservé à la promotion des évènements
-      associatifs à l'école.  On y trouve par exemple des annonces pendant les campagnes,
-      des organisations de petit-dej, des week-ends BDS, des semaines 1A etc.
-    icon: facebook.svg
-    invert-on-dark: true
-    url: https://www.facebook.com/groups/AQHAQHAQH
-
-  - name: FB - MBP !
-    description: Mamie Bons Plans ! est réservé à la promotion des partenariats centraliens.
-    icon: facebook.svg
-    invert-on-dark: true
-    url: https://www.facebook.com/groups/mamiebonsplans
-
-  - name: Instagram BDE
-    description: Suis l'actualité associative de l'école sur le compte Instagram du BDE !
-    icon: bde.webp
-    url: https://www.instagram.com/bdecentralelyon/
-
-  - name: Instagram BDS
-    description: Suis l'actualité sportive de l'école sur le compte Instagram du BDS !
-    icon: bds.webp
-    url: https://www.instagram.com/bds_ecl/
+  - name: Centralassociation
+    description: Agrégateur de lien associatif d'ÉCLAIR
+    icon: centralassociation.svg
+    url: https://assos.myecl.fr
 
 Autres:
-  - name: Scolarité
-    description:
-      Les bulletins de notes de chaque semestre et le certificat de scolarité figurent sur Scolarité. Attention,
-      le VPN de l'école est nécessaire pour y accéder.
-    icon: student.svg
-    invert-on-dark: true
-    url: https://scolarite.ec-lyon.fr
-
   - name: Bibliothèque
     description:
       Le site de la Bibliothèque Universitaire permet de réserver un livre, vérifier
@@ -157,12 +119,6 @@ Autres:
     description: L'instance Gitlab de l'école est un serveur de dépôt de code et de collaboration interne à Centrale Lyon. Elle permet d'héberger des projets d'enseignement ou de recherche.
     icon: gitlab.svg
     url: https://gitlab.ec-lyon.fr
-
-  - name: Compétences
-    description: Le site des compétences, recense les évaluations des professeurs et donne accès à un récapitulatif. L'accès nécessite d'être connecté au réseau interne de l'école ou au VPN.
-    icon: competence.png
-    invert-on-dark: true
-    url: https://competences.ec-lyon.fr/
 
   - name: DSI
     description:
