@@ -1,9 +1,3 @@
-Challenge:
-  - name: Infos Challenge
-    description: Tout en un, les infos du Challenge, de Peer Care et du Mouvement
-    icon: challenge.png
-    url: https://centralisation.myecl.fr/assets/pdf/Infos_Challenge.pdf
-
 École:
   - name: Zimbra
     description: Zimbra est le serveur mail de l'école.
