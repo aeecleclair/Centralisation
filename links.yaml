@@ -132,3 +132,8 @@ Autres:
     icon: dsi.svg
     invert-on-dark: true
     url: https://dsi.ec-lyon.fr
+
+  - name: AEECL Drive public
+    description: Le drive public de l'AEECL permet de partager des documents avec les étudiants.
+    icon: AEECL_drive.png
+    url: https://link.myecl.fr/s/aeecldrivepublic
