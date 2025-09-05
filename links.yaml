@@ -111,7 +111,7 @@ Autres:
       Le site de la Bibliothèque Universitaire permet de réserver un livre, vérifier
       les disponibilités ou passer une demande d'achat. Une importante collection de ressources numériques est aussi accessible depuis ce portail.
     icon: bibli.webp
-    url: https://bibli.ec-lyon.fr
+    url: https://bibliotheque.ec-lyon.fr/
 
   - name: Zoom
     description:
