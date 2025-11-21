@@ -95,7 +95,7 @@ Services d'ÉCLAIR:
     icon: pixels.svg
     url: https://piwigo.myecl.fr
 
-  - name: Safety Card
+  - name: Safety Cards
     description: Site de prévention relatif aux risques de la vie étudiante
     icon: safetycard.png
     url: https://prevention.myecl.fr
