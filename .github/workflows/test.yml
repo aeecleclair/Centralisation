@@ -41,7 +41,7 @@ jobs:
           edit-mode: replace
 
       - name: Check out the code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Install poetry
         uses: abatilo/actions-poetry@v4.0.0
