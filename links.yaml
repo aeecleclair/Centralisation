@@ -89,7 +89,7 @@ Services d'ÉCLAIR:
   - name: HedgeDoc
     description: Editeur collaboratif pour faire des Markdown hébergé sur le serveur d'ÉCLAIR
     icon: hedgedoc.webp
-    url: https://hedgedoc.eclair.ec-lyon.fr
+    url: https://hedgedoc.myecl.fr
 
   - name: Overleaf
     description: Editeur collaboratif en ligne de rapports LaTeX
